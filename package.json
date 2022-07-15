@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "pnpm -F demo start",
-    "build": "pnpm -F demo build"
+    "build": "pnpm -F demo build",
+    "preinstall": "npx only-allow pnpm"
   },
   "keywords": [],
   "author": "",
