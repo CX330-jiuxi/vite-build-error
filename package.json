@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "vite-build-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pnpm -F demo start",
+    "build": "pnpm -F demo build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "16.16.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}

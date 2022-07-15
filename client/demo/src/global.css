@@ -1,0 +1,6 @@
+@import '@alifd/theme-mxs-dark/variables.css';
+@import '@alifd/theme-mxs-dark/dist/next.var.css';
+
+body {
+  -webkit-font-smoothing: antialiased;
+}

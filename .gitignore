@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+node_modules/
+.umi*/
+.ice/
+
+
+*frontend*/
+
+dist/
+
+pnpm-lock.yaml
+client/mxs/yarn.lock

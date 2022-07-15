@@ -1,0 +1,16 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "workspacePrefix": "/Users/caoxu/Desktop/privateSpace/study/github/vite-build-error"
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_INIT_ARG",
+    "hint": "Maybe you wanted to run \"pnpm create ice demo\"",
+    "err": {
+      "name": "pnpm",
+      "message": "init command does not accept any arguments",
+      "code": "ERR_PNPM_INIT_ARG",
+      "stack": "pnpm: init command does not accept any arguments\n    at Object.handler [as init] (/Users/caoxu/Library/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:190071:15)\n    at /Users/caoxu/Library/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:192591:51\n    at async run (/Users/caoxu/Library/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:192567:34)\n    at async runPnpm (/Users/caoxu/Library/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:192785:5)\n    at async /Users/caoxu/Library/pnpm/global/5/.pnpm/pnpm@7.5.0/node_modules/pnpm/dist/pnpm.cjs:192777:7"
+    }
+  }
+}
